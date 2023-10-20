@@ -1,2 +1,2 @@
-# Calan-s-Sick-Website
-A website made by Calan
+# Calan-s-Sick-Repository
+A repository made by Calan
